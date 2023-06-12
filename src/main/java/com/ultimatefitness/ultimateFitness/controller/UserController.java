@@ -9,10 +9,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class UserController {
 
-    private final User users;
-
-
-
     @RequestMapping("/hello")
     @ResponseBody
     public String helloGFG(){
