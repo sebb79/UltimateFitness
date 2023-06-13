@@ -1,6 +1,4 @@
-package model;
-
-
+package com.ultimatefitness.ultimateFitness.model;
 
 import lombok.Data;
 
